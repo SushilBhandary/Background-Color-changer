@@ -7,7 +7,7 @@ The website focuses on learning DOM manipulation .
 - querySelector
 - style.backgroundColor
 
-## [Live Preview](https://ran-dom-password-generator.netlify.app/)
+## [Live Preview](https://background-colors-changer.netlify.app/)
 
 ### SnapShot of the Webpage
 
